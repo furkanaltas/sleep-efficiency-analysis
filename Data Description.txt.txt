@@ -1,0 +1,29 @@
+Subject ID: Unique identifier for each test subject
+
+Age: Age of the subject in years
+
+Gender: Gender of the subject (e.g., male/female)
+
+Bedtime: Time when the subject goes to bed each day
+
+Wakeup time: Time when the subject wakes up each day
+
+Sleep duration: Total hours of sleep each night
+
+Sleep efficiency: Percentage of time in bed that is actually spent asleep
+
+REM sleep time: Amount of time spent in REM (Rapid Eye Movement) sleep
+
+Deep sleep time: Amount of time spent in deep sleep stages
+
+Light sleep time: Amount of time spent in light sleep stages
+
+Awakenings: Number of times the subject wakes up during the night
+
+Caffeine consumption: Amount of caffeine consumed in the 24 hours prior to bedtime
+
+Alcohol consumption: Amount of alcohol consumed in the 24 hours prior to bedtime
+
+Smoking status: Whether the subject is a smoker (yes/no)
+
+Exercise frequency: Number of times the subject exercises per week
